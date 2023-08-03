@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AlexCSAWSOME
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning CS50x by Harvard
